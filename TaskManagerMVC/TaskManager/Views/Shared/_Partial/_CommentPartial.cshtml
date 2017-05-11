@@ -1,0 +1,35 @@
+﻿@model TaskManager.VIewModels.TaskManager.TaskDetailsVm
+
+<p>
+    @Html.ActionLink("Create New", "Edit", "Comments", new { id = 0, taskid = Model.Id }, null)
+</p>
+<table class="table">
+    <tr>
+        <th>@Html.Label("Id")</th>
+        <th>@Html.Label("ParentId")</th>
+        <th>@Html.Label("Created BY")</th>
+        <th>@Html.Label("Comments")</th>
+        <th></th>
+    </tr>
+    @foreach (var item in Model.CommentsList)
+            {
+        <tr>
+            <td>
+                @item.Id
+            </td>
+            <td>
+                @item.TaskId
+            </td>
+            <td>
+                @item.CreatedBy
+            </td>
+            <td>
+                @item.Comments
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", "Comments", new { id = item.Id }, null) |
+                @Html.ActionLink("Delete", "Delete", "Comments", new { id = item.Id }, null)
+            </td>
+        </tr>
+    }
+</table>

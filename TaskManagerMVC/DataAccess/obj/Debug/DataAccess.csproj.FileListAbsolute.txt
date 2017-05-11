@@ -1,0 +1,20 @@
+C:\Users\Vladislav Kavazov\Documents\Visual Studio 2015\Projects\TaskManagerMVC\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\Vladislav Kavazov\Documents\Visual Studio 2015\Projects\TaskManagerMVC\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\Vladislav Kavazov\Documents\Visual Studio 2015\Projects\TaskManagerMVC\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\Vladislav Kavazov\Documents\Visual Studio 2015\Projects\TaskManagerMVC\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\Vladislav Kavazov\Documents\Visual Studio 2015\Projects\TaskManagerMVC\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerFiles\TaskManagerMVC\TaskManagerMVC\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerFiles\TaskManagerMVC\TaskManagerMVC\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerFiles\TaskManagerMVC\TaskManagerMVC\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerFiles\TaskManagerMVC\TaskManagerMVC\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerFiles\TaskManagerMVC\TaskManagerMVC\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\Vladislav Kavazov\Desktop\Programing\Programista Intern Tasks\C#\03. Thu 07\TaskManagers\Task Manager Files\TaskManagerMVC\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\Vladislav Kavazov\Desktop\Programing\Programista Intern Tasks\C#\03. Thu 07\TaskManagers\Task Manager Files\TaskManagerMVC\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\Vladislav Kavazov\Desktop\Programing\Programista Intern Tasks\C#\03. Thu 07\TaskManagers\Task Manager Files\TaskManagerMVC\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\Vladislav Kavazov\Desktop\Programing\Programista Intern Tasks\C#\03. Thu 07\TaskManagers\Task Manager Files\TaskManagerMVC\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\Vladislav Kavazov\Desktop\Programing\Programista Intern Tasks\C#\03. Thu 07\TaskManagers\Task Manager Files\TaskManagerMVC\DataAccess\obj\Debug\DataAccess.pdb

@@ -1,0 +1,26 @@
+﻿@{
+    ViewBag.Title = "Login";
+}
+<div>
+    <form action="/Home/Login" method="post" style="margin: 0 auto">
+        <fieldset style="margin:0 auto">
+            <legend style="text-align:center;font-size: 46px;">Login</legend>
+            <span style="text-align: center; margin: 0 auto;padding-left: 37%;font-size: 16px; color: red;">
+                @Html.ValidationMessage("authenticationFailed")
+            </span>
+            <table style="margin:  0 auto;">
+                <tr>
+                    <td>Username:</td>
+                    <td><input style="width: 230px;" type="text" name="username" /></td>
+                </tr>
+                <tr>
+                    <td>Password:</td>
+                    <td><input style="width: 230px;" type="password" name="password" /></td>
+                </tr>
+                <tr>
+                    <td colspan="2"><input style="margin: 10px;margin-left: 74%;padding: 5px 18px;" type="submit" value="Login" /></td>
+                </tr>
+            </table>
+        </fieldset>
+    </form>
+</div>

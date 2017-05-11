@@ -1,0 +1,12 @@
+1
+admin
+admin
+AdminName
+admin@abv.bg
+True
+2
+notadmin
+notadmin
+NotAdminName
+notadmin@abv.bg
+False

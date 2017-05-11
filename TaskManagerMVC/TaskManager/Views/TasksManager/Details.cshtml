@@ -1,0 +1,104 @@
+﻿@model TaskManager.VIewModels.TaskManager.TaskDetailsVm
+
+@{
+    ViewBag.Title = "Index";
+}
+<h1 style="text-align:center;font-size: 46px;margin: 27px;">Task Details</h1>
+<h1 style="text-align:center;font-size: 26px;margin: 27px;">Task</h1>
+<div style="width: 48%;font-size: 17px;margin: 0 auto;">
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.UserId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.UserId)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Title)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Title)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Description)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Description)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ResponsibleUser)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ResponsibleUser)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Creator)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Creator)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Status)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Status)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.LastChange)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.LastChange)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.CreateTime)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.CreateTime)
+        </dd>
+    </dl>
+</div>
+<p style="width: 30%;margin: 0 auto;">
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
+<h1 style="text-align:center;font-size: 26px;margin: 27px;">Comments Details</h1>
+<!-- Search for Comments-->
+<div>
+    @Html.Partial("_FilterPartial", Model.FilterComment)
+</div>
+<!--Comments-->
+<div>
+    @Html.Partial("~/Views/Shared/_Partial/_CommentPartial.cshtml", Model)
+</div>
+<!--Comments Pager -->
+<div>
+    @Html.Partial("_PagingPartial", Model.PagerComment)
+</div>
+<h1 style="text-align:center;font-size: 26px;margin: 27px;">Logged Work Details</h1>
+<!-- Search for LoggedWork-->
+<div>
+    @Html.Partial("_FilterPartial", Model.FilterLoggedWorks)
+</div>
+<!-- LoggedWork-->
+<div>
+    @Html.Partial("~/Views/Shared/_Partial/_LoggedWorkPartial.cshtml", Model)
+</div>
+<!-- LoggedWork Pager -->
+<div>
+    @Html.Partial("_PagingPartial", Model.PagerLogWork)
+</div>

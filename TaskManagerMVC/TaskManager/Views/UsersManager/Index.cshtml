@@ -1,0 +1,56 @@
+﻿@model TaskManager.VIewModels.UserManager.AllUserVM
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h1 style="text-align:center;font-size: 46px;margin: 27px;">Manage Users</h1>
+<p>
+    @Html.ActionLink("Create New", "Edit")
+</p>
+<!--Search Users-->
+<div>
+    @Html.Partial("_FilterPartial", Model.Filter)
+</div>
+<table class="table">
+    <tr>
+        <th>@Html.Label("Id")</th>
+        <th>@Html.Label("Username")</th>
+        <th>@Html.Label("Password")</th>
+        <th>@Html.Label("Name")</th>
+        <th>@Html.Label("Email")</th>
+        <th>@Html.Label("Is Admin")</th>
+        <th></th>
+    </tr>
+    @foreach (var item in Model.Items)
+            {
+        <tr>
+            <td>
+                @item.Id
+            </td>
+            <td>
+                @item.Username
+            </td>
+            <td>
+                @item.Password
+            </td>
+            <td>
+                @item.Name
+            </td>
+            <td>
+                @item.Email
+            </td>
+            <td>
+                @item.IsAdmin
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.Id }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.Id })
+            </td>
+        </tr>
+    }
+</table>
+<!--Users Pager-->
+<div>
+    @Html.Partial("_PagingPartial", Model.Pager)
+</div>

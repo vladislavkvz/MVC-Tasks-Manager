@@ -1,0 +1,500 @@
+C:\Users\Vladislav Kavazov\Documents\Visual Studio 2015\Projects\TaskManagerMVC\TaskManager\obj\Debug\TaskManager.csprojResolveAssemblyReference.cache
+C:\Users\Vladislav Kavazov\Documents\Visual Studio 2015\Projects\TaskManagerMVC\TaskManager\bin\roslyn\csc.exe
+C:\Users\Vladislav Kavazov\Documents\Visual Studio 2015\Projects\TaskManagerMVC\TaskManager\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Vladislav Kavazov\Documents\Visual Studio 2015\Projects\TaskManagerMVC\TaskManager\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Vladislav Kavazov\Documents\Visual Studio 2015\Projects\TaskManagerMVC\TaskManager\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Vladislav Kavazov\Documents\Visual Studio 2015\Projects\TaskManagerMVC\TaskManager\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Vladislav Kavazov\Documents\Visual Studio 2015\Projects\TaskManagerMVC\TaskManager\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Vladislav Kavazov\Documents\Visual Studio 2015\Projects\TaskManagerMVC\TaskManager\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Vladislav Kavazov\Documents\Visual Studio 2015\Projects\TaskManagerMVC\TaskManager\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Vladislav Kavazov\Documents\Visual Studio 2015\Projects\TaskManagerMVC\TaskManager\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Vladislav Kavazov\Documents\Visual Studio 2015\Projects\TaskManagerMVC\TaskManager\bin\roslyn\vbc.exe
+C:\Users\Vladislav Kavazov\Documents\Visual Studio 2015\Projects\TaskManagerMVC\TaskManager\bin\roslyn\VBCSCompiler.exe
+C:\Users\Vladislav Kavazov\Documents\Visual Studio 2015\Projects\TaskManagerMVC\TaskManager\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Vladislav Kavazov\Documents\Visual Studio 2015\Projects\TaskManagerMVC\TaskManager\bin\TaskManager.dll.config
+C:\Users\Vladislav Kavazov\Documents\Visual Studio 2015\Projects\TaskManagerMVC\TaskManager\bin\TaskManager.dll
+C:\Users\Vladislav Kavazov\Documents\Visual Studio 2015\Projects\TaskManagerMVC\TaskManager\bin\TaskManager.pdb
+C:\Users\Vladislav Kavazov\Documents\Visual Studio 2015\Projects\TaskManagerMVC\TaskManager\bin\Antlr3.Runtime.dll
+C:\Users\Vladislav Kavazov\Documents\Visual Studio 2015\Projects\TaskManagerMVC\TaskManager\bin\DataAccess.dll
+C:\Users\Vladislav Kavazov\Documents\Visual Studio 2015\Projects\TaskManagerMVC\TaskManager\bin\EntityFramework.dll
+C:\Users\Vladislav Kavazov\Documents\Visual Studio 2015\Projects\TaskManagerMVC\TaskManager\bin\EntityFramework.SqlServer.dll
+C:\Users\Vladislav Kavazov\Documents\Visual Studio 2015\Projects\TaskManagerMVC\TaskManager\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Vladislav Kavazov\Documents\Visual Studio 2015\Projects\TaskManagerMVC\TaskManager\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Vladislav Kavazov\Documents\Visual Studio 2015\Projects\TaskManagerMVC\TaskManager\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Vladislav Kavazov\Documents\Visual Studio 2015\Projects\TaskManagerMVC\TaskManager\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Vladislav Kavazov\Documents\Visual Studio 2015\Projects\TaskManagerMVC\TaskManager\bin\Microsoft.AI.Web.dll
+C:\Users\Vladislav Kavazov\Documents\Visual Studio 2015\Projects\TaskManagerMVC\TaskManager\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Vladislav Kavazov\Documents\Visual Studio 2015\Projects\TaskManagerMVC\TaskManager\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Vladislav Kavazov\Documents\Visual Studio 2015\Projects\TaskManagerMVC\TaskManager\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Vladislav Kavazov\Documents\Visual Studio 2015\Projects\TaskManagerMVC\TaskManager\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Vladislav Kavazov\Documents\Visual Studio 2015\Projects\TaskManagerMVC\TaskManager\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Vladislav Kavazov\Documents\Visual Studio 2015\Projects\TaskManagerMVC\TaskManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Vladislav Kavazov\Documents\Visual Studio 2015\Projects\TaskManagerMVC\TaskManager\bin\Microsoft.Owin.dll
+C:\Users\Vladislav Kavazov\Documents\Visual Studio 2015\Projects\TaskManagerMVC\TaskManager\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Vladislav Kavazov\Documents\Visual Studio 2015\Projects\TaskManagerMVC\TaskManager\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Vladislav Kavazov\Documents\Visual Studio 2015\Projects\TaskManagerMVC\TaskManager\bin\Microsoft.Owin.Security.dll
+C:\Users\Vladislav Kavazov\Documents\Visual Studio 2015\Projects\TaskManagerMVC\TaskManager\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Vladislav Kavazov\Documents\Visual Studio 2015\Projects\TaskManagerMVC\TaskManager\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Vladislav Kavazov\Documents\Visual Studio 2015\Projects\TaskManagerMVC\TaskManager\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Vladislav Kavazov\Documents\Visual Studio 2015\Projects\TaskManagerMVC\TaskManager\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Vladislav Kavazov\Documents\Visual Studio 2015\Projects\TaskManagerMVC\TaskManager\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Vladislav Kavazov\Documents\Visual Studio 2015\Projects\TaskManagerMVC\TaskManager\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Vladislav Kavazov\Documents\Visual Studio 2015\Projects\TaskManagerMVC\TaskManager\bin\Newtonsoft.Json.dll
+C:\Users\Vladislav Kavazov\Documents\Visual Studio 2015\Projects\TaskManagerMVC\TaskManager\bin\Owin.dll
+C:\Users\Vladislav Kavazov\Documents\Visual Studio 2015\Projects\TaskManagerMVC\TaskManager\bin\System.Web.Helpers.dll
+C:\Users\Vladislav Kavazov\Documents\Visual Studio 2015\Projects\TaskManagerMVC\TaskManager\bin\System.Web.Mvc.dll
+C:\Users\Vladislav Kavazov\Documents\Visual Studio 2015\Projects\TaskManagerMVC\TaskManager\bin\System.Web.Optimization.dll
+C:\Users\Vladislav Kavazov\Documents\Visual Studio 2015\Projects\TaskManagerMVC\TaskManager\bin\System.Web.Razor.dll
+C:\Users\Vladislav Kavazov\Documents\Visual Studio 2015\Projects\TaskManagerMVC\TaskManager\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Vladislav Kavazov\Documents\Visual Studio 2015\Projects\TaskManagerMVC\TaskManager\bin\System.Web.WebPages.dll
+C:\Users\Vladislav Kavazov\Documents\Visual Studio 2015\Projects\TaskManagerMVC\TaskManager\bin\System.Web.WebPages.Razor.dll
+C:\Users\Vladislav Kavazov\Documents\Visual Studio 2015\Projects\TaskManagerMVC\TaskManager\bin\WebGrease.dll
+C:\Users\Vladislav Kavazov\Documents\Visual Studio 2015\Projects\TaskManagerMVC\TaskManager\bin\DataAccess.pdb
+C:\Users\Vladislav Kavazov\Documents\Visual Studio 2015\Projects\TaskManagerMVC\TaskManager\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Vladislav Kavazov\Documents\Visual Studio 2015\Projects\TaskManagerMVC\TaskManager\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Vladislav Kavazov\Documents\Visual Studio 2015\Projects\TaskManagerMVC\TaskManager\bin\Microsoft.AI.Web.xml
+C:\Users\Vladislav Kavazov\Documents\Visual Studio 2015\Projects\TaskManagerMVC\TaskManager\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Vladislav Kavazov\Documents\Visual Studio 2015\Projects\TaskManagerMVC\TaskManager\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Vladislav Kavazov\Documents\Visual Studio 2015\Projects\TaskManagerMVC\TaskManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Vladislav Kavazov\Documents\Visual Studio 2015\Projects\TaskManagerMVC\TaskManager\bin\System.Web.Helpers.xml
+C:\Users\Vladislav Kavazov\Documents\Visual Studio 2015\Projects\TaskManagerMVC\TaskManager\bin\System.Web.Mvc.xml
+C:\Users\Vladislav Kavazov\Documents\Visual Studio 2015\Projects\TaskManagerMVC\TaskManager\bin\System.Web.Optimization.xml
+C:\Users\Vladislav Kavazov\Documents\Visual Studio 2015\Projects\TaskManagerMVC\TaskManager\bin\System.Web.Razor.xml
+C:\Users\Vladislav Kavazov\Documents\Visual Studio 2015\Projects\TaskManagerMVC\TaskManager\bin\System.Web.WebPages.xml
+C:\Users\Vladislav Kavazov\Documents\Visual Studio 2015\Projects\TaskManagerMVC\TaskManager\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Vladislav Kavazov\Documents\Visual Studio 2015\Projects\TaskManagerMVC\TaskManager\bin\System.Web.WebPages.Razor.xml
+C:\Users\Vladislav Kavazov\Documents\Visual Studio 2015\Projects\TaskManagerMVC\TaskManager\bin\Antlr3.Runtime.pdb
+C:\Users\Vladislav Kavazov\Documents\Visual Studio 2015\Projects\TaskManagerMVC\TaskManager\bin\Newtonsoft.Json.xml
+C:\Users\Vladislav Kavazov\Documents\Visual Studio 2015\Projects\TaskManagerMVC\TaskManager\bin\EntityFramework.xml
+C:\Users\Vladislav Kavazov\Documents\Visual Studio 2015\Projects\TaskManagerMVC\TaskManager\bin\EntityFramework.SqlServer.xml
+C:\Users\Vladislav Kavazov\Documents\Visual Studio 2015\Projects\TaskManagerMVC\TaskManager\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Vladislav Kavazov\Documents\Visual Studio 2015\Projects\TaskManagerMVC\TaskManager\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Vladislav Kavazov\Documents\Visual Studio 2015\Projects\TaskManagerMVC\TaskManager\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Vladislav Kavazov\Documents\Visual Studio 2015\Projects\TaskManagerMVC\TaskManager\bin\Microsoft.Owin.xml
+C:\Users\Vladislav Kavazov\Documents\Visual Studio 2015\Projects\TaskManagerMVC\TaskManager\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Vladislav Kavazov\Documents\Visual Studio 2015\Projects\TaskManagerMVC\TaskManager\bin\Microsoft.Owin.Security.xml
+C:\Users\Vladislav Kavazov\Documents\Visual Studio 2015\Projects\TaskManagerMVC\TaskManager\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Vladislav Kavazov\Documents\Visual Studio 2015\Projects\TaskManagerMVC\TaskManager\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Vladislav Kavazov\Documents\Visual Studio 2015\Projects\TaskManagerMVC\TaskManager\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Vladislav Kavazov\Documents\Visual Studio 2015\Projects\TaskManagerMVC\TaskManager\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Vladislav Kavazov\Documents\Visual Studio 2015\Projects\TaskManagerMVC\TaskManager\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Vladislav Kavazov\Documents\Visual Studio 2015\Projects\TaskManagerMVC\TaskManager\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Vladislav Kavazov\Documents\Visual Studio 2015\Projects\TaskManagerMVC\TaskManager\obj\Debug\TaskManager.dll
+C:\Users\Vladislav Kavazov\Documents\Visual Studio 2015\Projects\TaskManagerMVC\TaskManager\obj\Debug\TaskManager.pdb
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC\TaskManager\bin\roslyn\csc.exe
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC\TaskManager\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC\TaskManager\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC\TaskManager\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC\TaskManager\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC\TaskManager\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC\TaskManager\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC\TaskManager\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC\TaskManager\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC\TaskManager\bin\roslyn\vbc.exe
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC\TaskManager\bin\roslyn\VBCSCompiler.exe
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC\TaskManager\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC\TaskManager\bin\TaskManager.dll.config
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC\TaskManager\bin\TaskManager.dll
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC\TaskManager\bin\TaskManager.pdb
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC\TaskManager\bin\Antlr3.Runtime.dll
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC\TaskManager\bin\DataAccess.dll
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC\TaskManager\bin\EntityFramework.dll
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC\TaskManager\bin\EntityFramework.SqlServer.dll
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC\TaskManager\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC\TaskManager\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC\TaskManager\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC\TaskManager\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC\TaskManager\bin\Microsoft.AI.Web.dll
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC\TaskManager\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC\TaskManager\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC\TaskManager\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC\TaskManager\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC\TaskManager\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC\TaskManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC\TaskManager\bin\Microsoft.Owin.dll
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC\TaskManager\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC\TaskManager\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC\TaskManager\bin\Microsoft.Owin.Security.dll
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC\TaskManager\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC\TaskManager\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC\TaskManager\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC\TaskManager\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC\TaskManager\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC\TaskManager\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC\TaskManager\bin\Newtonsoft.Json.dll
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC\TaskManager\bin\Owin.dll
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC\TaskManager\bin\System.Web.Helpers.dll
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC\TaskManager\bin\System.Web.Mvc.dll
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC\TaskManager\bin\System.Web.Optimization.dll
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC\TaskManager\bin\System.Web.Razor.dll
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC\TaskManager\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC\TaskManager\bin\System.Web.WebPages.dll
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC\TaskManager\bin\System.Web.WebPages.Razor.dll
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC\TaskManager\bin\WebGrease.dll
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC\TaskManager\bin\DataAccess.pdb
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC\TaskManager\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC\TaskManager\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC\TaskManager\bin\Microsoft.AI.Web.xml
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC\TaskManager\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC\TaskManager\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC\TaskManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC\TaskManager\bin\System.Web.Helpers.xml
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC\TaskManager\bin\System.Web.Mvc.xml
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC\TaskManager\bin\System.Web.Optimization.xml
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC\TaskManager\bin\System.Web.Razor.xml
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC\TaskManager\bin\System.Web.WebPages.xml
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC\TaskManager\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC\TaskManager\bin\System.Web.WebPages.Razor.xml
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC\TaskManager\bin\Antlr3.Runtime.pdb
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC\TaskManager\bin\Newtonsoft.Json.xml
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC\TaskManager\bin\EntityFramework.xml
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC\TaskManager\bin\EntityFramework.SqlServer.xml
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC\TaskManager\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC\TaskManager\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC\TaskManager\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC\TaskManager\bin\Microsoft.Owin.xml
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC\TaskManager\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC\TaskManager\bin\Microsoft.Owin.Security.xml
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC\TaskManager\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC\TaskManager\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC\TaskManager\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC\TaskManager\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC\TaskManager\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC\TaskManager\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC\TaskManager\obj\Debug\TaskManager.csprojResolveAssemblyReference.cache
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC\TaskManager\obj\Debug\TaskManager.dll
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC\TaskManager\obj\Debug\TaskManager.pdb
+C:\Users\Vladislav Kavazov\Desktop\Exercises\C#\TaskManagerMVC\TaskManager\bin\roslyn\csc.exe
+C:\Users\Vladislav Kavazov\Desktop\Exercises\C#\TaskManagerMVC\TaskManager\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Vladislav Kavazov\Desktop\Exercises\C#\TaskManagerMVC\TaskManager\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Vladislav Kavazov\Desktop\Exercises\C#\TaskManagerMVC\TaskManager\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Vladislav Kavazov\Desktop\Exercises\C#\TaskManagerMVC\TaskManager\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Vladislav Kavazov\Desktop\Exercises\C#\TaskManagerMVC\TaskManager\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Vladislav Kavazov\Desktop\Exercises\C#\TaskManagerMVC\TaskManager\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Vladislav Kavazov\Desktop\Exercises\C#\TaskManagerMVC\TaskManager\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Vladislav Kavazov\Desktop\Exercises\C#\TaskManagerMVC\TaskManager\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Vladislav Kavazov\Desktop\Exercises\C#\TaskManagerMVC\TaskManager\bin\roslyn\vbc.exe
+C:\Users\Vladislav Kavazov\Desktop\Exercises\C#\TaskManagerMVC\TaskManager\bin\roslyn\VBCSCompiler.exe
+C:\Users\Vladislav Kavazov\Desktop\Exercises\C#\TaskManagerMVC\TaskManager\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Vladislav Kavazov\Desktop\Exercises\C#\TaskManagerMVC\TaskManager\bin\TaskManager.dll.config
+C:\Users\Vladislav Kavazov\Desktop\Exercises\C#\TaskManagerMVC\TaskManager\bin\TaskManager.dll
+C:\Users\Vladislav Kavazov\Desktop\Exercises\C#\TaskManagerMVC\TaskManager\bin\TaskManager.pdb
+C:\Users\Vladislav Kavazov\Desktop\Exercises\C#\TaskManagerMVC\TaskManager\bin\Antlr3.Runtime.dll
+C:\Users\Vladislav Kavazov\Desktop\Exercises\C#\TaskManagerMVC\TaskManager\bin\DataAccess.dll
+C:\Users\Vladislav Kavazov\Desktop\Exercises\C#\TaskManagerMVC\TaskManager\bin\EntityFramework.dll
+C:\Users\Vladislav Kavazov\Desktop\Exercises\C#\TaskManagerMVC\TaskManager\bin\EntityFramework.SqlServer.dll
+C:\Users\Vladislav Kavazov\Desktop\Exercises\C#\TaskManagerMVC\TaskManager\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Vladislav Kavazov\Desktop\Exercises\C#\TaskManagerMVC\TaskManager\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Vladislav Kavazov\Desktop\Exercises\C#\TaskManagerMVC\TaskManager\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Vladislav Kavazov\Desktop\Exercises\C#\TaskManagerMVC\TaskManager\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Vladislav Kavazov\Desktop\Exercises\C#\TaskManagerMVC\TaskManager\bin\Microsoft.AI.Web.dll
+C:\Users\Vladislav Kavazov\Desktop\Exercises\C#\TaskManagerMVC\TaskManager\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Vladislav Kavazov\Desktop\Exercises\C#\TaskManagerMVC\TaskManager\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Vladislav Kavazov\Desktop\Exercises\C#\TaskManagerMVC\TaskManager\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Vladislav Kavazov\Desktop\Exercises\C#\TaskManagerMVC\TaskManager\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Vladislav Kavazov\Desktop\Exercises\C#\TaskManagerMVC\TaskManager\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Vladislav Kavazov\Desktop\Exercises\C#\TaskManagerMVC\TaskManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Vladislav Kavazov\Desktop\Exercises\C#\TaskManagerMVC\TaskManager\bin\Microsoft.Owin.dll
+C:\Users\Vladislav Kavazov\Desktop\Exercises\C#\TaskManagerMVC\TaskManager\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Vladislav Kavazov\Desktop\Exercises\C#\TaskManagerMVC\TaskManager\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Vladislav Kavazov\Desktop\Exercises\C#\TaskManagerMVC\TaskManager\bin\Microsoft.Owin.Security.dll
+C:\Users\Vladislav Kavazov\Desktop\Exercises\C#\TaskManagerMVC\TaskManager\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Vladislav Kavazov\Desktop\Exercises\C#\TaskManagerMVC\TaskManager\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Vladislav Kavazov\Desktop\Exercises\C#\TaskManagerMVC\TaskManager\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Vladislav Kavazov\Desktop\Exercises\C#\TaskManagerMVC\TaskManager\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Vladislav Kavazov\Desktop\Exercises\C#\TaskManagerMVC\TaskManager\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Vladislav Kavazov\Desktop\Exercises\C#\TaskManagerMVC\TaskManager\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Vladislav Kavazov\Desktop\Exercises\C#\TaskManagerMVC\TaskManager\bin\Newtonsoft.Json.dll
+C:\Users\Vladislav Kavazov\Desktop\Exercises\C#\TaskManagerMVC\TaskManager\bin\Owin.dll
+C:\Users\Vladislav Kavazov\Desktop\Exercises\C#\TaskManagerMVC\TaskManager\bin\System.Web.Helpers.dll
+C:\Users\Vladislav Kavazov\Desktop\Exercises\C#\TaskManagerMVC\TaskManager\bin\System.Web.Mvc.dll
+C:\Users\Vladislav Kavazov\Desktop\Exercises\C#\TaskManagerMVC\TaskManager\bin\System.Web.Optimization.dll
+C:\Users\Vladislav Kavazov\Desktop\Exercises\C#\TaskManagerMVC\TaskManager\bin\System.Web.Razor.dll
+C:\Users\Vladislav Kavazov\Desktop\Exercises\C#\TaskManagerMVC\TaskManager\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Vladislav Kavazov\Desktop\Exercises\C#\TaskManagerMVC\TaskManager\bin\System.Web.WebPages.dll
+C:\Users\Vladislav Kavazov\Desktop\Exercises\C#\TaskManagerMVC\TaskManager\bin\System.Web.WebPages.Razor.dll
+C:\Users\Vladislav Kavazov\Desktop\Exercises\C#\TaskManagerMVC\TaskManager\bin\WebGrease.dll
+C:\Users\Vladislav Kavazov\Desktop\Exercises\C#\TaskManagerMVC\TaskManager\bin\DataAccess.pdb
+C:\Users\Vladislav Kavazov\Desktop\Exercises\C#\TaskManagerMVC\TaskManager\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Vladislav Kavazov\Desktop\Exercises\C#\TaskManagerMVC\TaskManager\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Vladislav Kavazov\Desktop\Exercises\C#\TaskManagerMVC\TaskManager\bin\Microsoft.AI.Web.xml
+C:\Users\Vladislav Kavazov\Desktop\Exercises\C#\TaskManagerMVC\TaskManager\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Vladislav Kavazov\Desktop\Exercises\C#\TaskManagerMVC\TaskManager\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Vladislav Kavazov\Desktop\Exercises\C#\TaskManagerMVC\TaskManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Vladislav Kavazov\Desktop\Exercises\C#\TaskManagerMVC\TaskManager\bin\System.Web.Helpers.xml
+C:\Users\Vladislav Kavazov\Desktop\Exercises\C#\TaskManagerMVC\TaskManager\bin\System.Web.Mvc.xml
+C:\Users\Vladislav Kavazov\Desktop\Exercises\C#\TaskManagerMVC\TaskManager\bin\System.Web.Optimization.xml
+C:\Users\Vladislav Kavazov\Desktop\Exercises\C#\TaskManagerMVC\TaskManager\bin\System.Web.Razor.xml
+C:\Users\Vladislav Kavazov\Desktop\Exercises\C#\TaskManagerMVC\TaskManager\bin\System.Web.WebPages.xml
+C:\Users\Vladislav Kavazov\Desktop\Exercises\C#\TaskManagerMVC\TaskManager\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Vladislav Kavazov\Desktop\Exercises\C#\TaskManagerMVC\TaskManager\bin\System.Web.WebPages.Razor.xml
+C:\Users\Vladislav Kavazov\Desktop\Exercises\C#\TaskManagerMVC\TaskManager\bin\Antlr3.Runtime.pdb
+C:\Users\Vladislav Kavazov\Desktop\Exercises\C#\TaskManagerMVC\TaskManager\bin\Newtonsoft.Json.xml
+C:\Users\Vladislav Kavazov\Desktop\Exercises\C#\TaskManagerMVC\TaskManager\bin\EntityFramework.xml
+C:\Users\Vladislav Kavazov\Desktop\Exercises\C#\TaskManagerMVC\TaskManager\bin\EntityFramework.SqlServer.xml
+C:\Users\Vladislav Kavazov\Desktop\Exercises\C#\TaskManagerMVC\TaskManager\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Vladislav Kavazov\Desktop\Exercises\C#\TaskManagerMVC\TaskManager\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Vladislav Kavazov\Desktop\Exercises\C#\TaskManagerMVC\TaskManager\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Vladislav Kavazov\Desktop\Exercises\C#\TaskManagerMVC\TaskManager\bin\Microsoft.Owin.xml
+C:\Users\Vladislav Kavazov\Desktop\Exercises\C#\TaskManagerMVC\TaskManager\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Vladislav Kavazov\Desktop\Exercises\C#\TaskManagerMVC\TaskManager\bin\Microsoft.Owin.Security.xml
+C:\Users\Vladislav Kavazov\Desktop\Exercises\C#\TaskManagerMVC\TaskManager\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Vladislav Kavazov\Desktop\Exercises\C#\TaskManagerMVC\TaskManager\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Vladislav Kavazov\Desktop\Exercises\C#\TaskManagerMVC\TaskManager\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Vladislav Kavazov\Desktop\Exercises\C#\TaskManagerMVC\TaskManager\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Vladislav Kavazov\Desktop\Exercises\C#\TaskManagerMVC\TaskManager\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Vladislav Kavazov\Desktop\Exercises\C#\TaskManagerMVC\TaskManager\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Vladislav Kavazov\Desktop\Exercises\C#\TaskManagerMVC\TaskManager\obj\Debug\TaskManager.csprojResolveAssemblyReference.cache
+C:\Users\Vladislav Kavazov\Desktop\Exercises\C#\TaskManagerMVC\TaskManager\obj\Debug\TaskManager.dll
+C:\Users\Vladislav Kavazov\Desktop\Exercises\C#\TaskManagerMVC\TaskManager\obj\Debug\TaskManager.pdb
+C:\Users\Vladislav Kavazov\Downloads\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\roslyn\csc.exe
+C:\Users\Vladislav Kavazov\Downloads\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Vladislav Kavazov\Downloads\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Vladislav Kavazov\Downloads\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Vladislav Kavazov\Downloads\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Vladislav Kavazov\Downloads\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Vladislav Kavazov\Downloads\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Vladislav Kavazov\Downloads\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Vladislav Kavazov\Downloads\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Vladislav Kavazov\Downloads\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\roslyn\vbc.exe
+C:\Users\Vladislav Kavazov\Downloads\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\roslyn\VBCSCompiler.exe
+C:\Users\Vladislav Kavazov\Downloads\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Vladislav Kavazov\Downloads\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\TaskManager.dll.config
+C:\Users\Vladislav Kavazov\Downloads\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\TaskManager.dll
+C:\Users\Vladislav Kavazov\Downloads\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\TaskManager.pdb
+C:\Users\Vladislav Kavazov\Downloads\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\Antlr3.Runtime.dll
+C:\Users\Vladislav Kavazov\Downloads\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\DataAccess.dll
+C:\Users\Vladislav Kavazov\Downloads\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\EntityFramework.dll
+C:\Users\Vladislav Kavazov\Downloads\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\EntityFramework.SqlServer.dll
+C:\Users\Vladislav Kavazov\Downloads\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Vladislav Kavazov\Downloads\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Vladislav Kavazov\Downloads\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Vladislav Kavazov\Downloads\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Vladislav Kavazov\Downloads\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\Microsoft.AI.Web.dll
+C:\Users\Vladislav Kavazov\Downloads\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Vladislav Kavazov\Downloads\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Vladislav Kavazov\Downloads\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Vladislav Kavazov\Downloads\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Vladislav Kavazov\Downloads\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Vladislav Kavazov\Downloads\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Vladislav Kavazov\Downloads\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\Microsoft.Owin.dll
+C:\Users\Vladislav Kavazov\Downloads\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Vladislav Kavazov\Downloads\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Vladislav Kavazov\Downloads\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\Microsoft.Owin.Security.dll
+C:\Users\Vladislav Kavazov\Downloads\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Vladislav Kavazov\Downloads\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Vladislav Kavazov\Downloads\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Vladislav Kavazov\Downloads\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Vladislav Kavazov\Downloads\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Vladislav Kavazov\Downloads\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Vladislav Kavazov\Downloads\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\Newtonsoft.Json.dll
+C:\Users\Vladislav Kavazov\Downloads\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\Owin.dll
+C:\Users\Vladislav Kavazov\Downloads\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\System.Web.Helpers.dll
+C:\Users\Vladislav Kavazov\Downloads\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\System.Web.Mvc.dll
+C:\Users\Vladislav Kavazov\Downloads\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\System.Web.Optimization.dll
+C:\Users\Vladislav Kavazov\Downloads\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\System.Web.Razor.dll
+C:\Users\Vladislav Kavazov\Downloads\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Vladislav Kavazov\Downloads\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\System.Web.WebPages.dll
+C:\Users\Vladislav Kavazov\Downloads\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\System.Web.WebPages.Razor.dll
+C:\Users\Vladislav Kavazov\Downloads\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\WebGrease.dll
+C:\Users\Vladislav Kavazov\Downloads\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\DataAccess.pdb
+C:\Users\Vladislav Kavazov\Downloads\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Vladislav Kavazov\Downloads\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Vladislav Kavazov\Downloads\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\Microsoft.AI.Web.xml
+C:\Users\Vladislav Kavazov\Downloads\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Vladislav Kavazov\Downloads\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Vladislav Kavazov\Downloads\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Vladislav Kavazov\Downloads\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\System.Web.Helpers.xml
+C:\Users\Vladislav Kavazov\Downloads\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\System.Web.Mvc.xml
+C:\Users\Vladislav Kavazov\Downloads\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\System.Web.Optimization.xml
+C:\Users\Vladislav Kavazov\Downloads\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\System.Web.Razor.xml
+C:\Users\Vladislav Kavazov\Downloads\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\System.Web.WebPages.xml
+C:\Users\Vladislav Kavazov\Downloads\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Vladislav Kavazov\Downloads\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\System.Web.WebPages.Razor.xml
+C:\Users\Vladislav Kavazov\Downloads\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\Antlr3.Runtime.pdb
+C:\Users\Vladislav Kavazov\Downloads\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\Newtonsoft.Json.xml
+C:\Users\Vladislav Kavazov\Downloads\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\EntityFramework.xml
+C:\Users\Vladislav Kavazov\Downloads\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\EntityFramework.SqlServer.xml
+C:\Users\Vladislav Kavazov\Downloads\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Vladislav Kavazov\Downloads\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Vladislav Kavazov\Downloads\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Vladislav Kavazov\Downloads\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\Microsoft.Owin.xml
+C:\Users\Vladislav Kavazov\Downloads\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Vladislav Kavazov\Downloads\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\Microsoft.Owin.Security.xml
+C:\Users\Vladislav Kavazov\Downloads\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Vladislav Kavazov\Downloads\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Vladislav Kavazov\Downloads\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Vladislav Kavazov\Downloads\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Vladislav Kavazov\Downloads\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Vladislav Kavazov\Downloads\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Vladislav Kavazov\Downloads\TaskManagerMVC\TaskManagerMVC\TaskManager\obj\Debug\TaskManager.csprojResolveAssemblyReference.cache
+C:\Users\Vladislav Kavazov\Downloads\TaskManagerMVC\TaskManagerMVC\TaskManager\obj\Debug\TaskManager.dll
+C:\Users\Vladislav Kavazov\Downloads\TaskManagerMVC\TaskManagerMVC\TaskManager\obj\Debug\TaskManager.pdb
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC\TaskManager\bin\DataAccess.EntityFramework.dll
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC\TaskManager\bin\DataAccess.EntityFramework.pdb
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC\TaskManager\obj\Debug\TaskManager.Migrations.users.resources
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC\TaskManager\obj\Debug\TaskManager.csproj.GenerateResource.Cache
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC1.2\TaskManagerMVC\TaskManager\bin\roslyn\csc.exe
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC1.2\TaskManagerMVC\TaskManager\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC1.2\TaskManagerMVC\TaskManager\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC1.2\TaskManagerMVC\TaskManager\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC1.2\TaskManagerMVC\TaskManager\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC1.2\TaskManagerMVC\TaskManager\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC1.2\TaskManagerMVC\TaskManager\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC1.2\TaskManagerMVC\TaskManager\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC1.2\TaskManagerMVC\TaskManager\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC1.2\TaskManagerMVC\TaskManager\bin\roslyn\vbc.exe
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC1.2\TaskManagerMVC\TaskManager\bin\roslyn\VBCSCompiler.exe
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC1.2\TaskManagerMVC\TaskManager\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC1.2\TaskManagerMVC\TaskManager\bin\TaskManager.dll.config
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC1.2\TaskManagerMVC\TaskManager\bin\TaskManager.dll
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC1.2\TaskManagerMVC\TaskManager\bin\TaskManager.pdb
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC1.2\TaskManagerMVC\TaskManager\bin\Antlr3.Runtime.dll
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC1.2\TaskManagerMVC\TaskManager\bin\DataAccess.dll
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC1.2\TaskManagerMVC\TaskManager\bin\EntityFramework.dll
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC1.2\TaskManagerMVC\TaskManager\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC1.2\TaskManagerMVC\TaskManager\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC1.2\TaskManagerMVC\TaskManager\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC1.2\TaskManagerMVC\TaskManager\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC1.2\TaskManagerMVC\TaskManager\bin\Microsoft.AI.Web.dll
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC1.2\TaskManagerMVC\TaskManager\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC1.2\TaskManagerMVC\TaskManager\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC1.2\TaskManagerMVC\TaskManager\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC1.2\TaskManagerMVC\TaskManager\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC1.2\TaskManagerMVC\TaskManager\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC1.2\TaskManagerMVC\TaskManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC1.2\TaskManagerMVC\TaskManager\bin\Microsoft.Owin.dll
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC1.2\TaskManagerMVC\TaskManager\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC1.2\TaskManagerMVC\TaskManager\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC1.2\TaskManagerMVC\TaskManager\bin\Microsoft.Owin.Security.dll
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC1.2\TaskManagerMVC\TaskManager\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC1.2\TaskManagerMVC\TaskManager\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC1.2\TaskManagerMVC\TaskManager\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC1.2\TaskManagerMVC\TaskManager\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC1.2\TaskManagerMVC\TaskManager\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC1.2\TaskManagerMVC\TaskManager\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC1.2\TaskManagerMVC\TaskManager\bin\Newtonsoft.Json.dll
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC1.2\TaskManagerMVC\TaskManager\bin\Owin.dll
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC1.2\TaskManagerMVC\TaskManager\bin\System.Web.Helpers.dll
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC1.2\TaskManagerMVC\TaskManager\bin\System.Web.Mvc.dll
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC1.2\TaskManagerMVC\TaskManager\bin\System.Web.Optimization.dll
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC1.2\TaskManagerMVC\TaskManager\bin\System.Web.Razor.dll
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC1.2\TaskManagerMVC\TaskManager\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC1.2\TaskManagerMVC\TaskManager\bin\System.Web.WebPages.dll
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC1.2\TaskManagerMVC\TaskManager\bin\System.Web.WebPages.Razor.dll
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC1.2\TaskManagerMVC\TaskManager\bin\WebGrease.dll
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC1.2\TaskManagerMVC\TaskManager\bin\DataAccess.pdb
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC1.2\TaskManagerMVC\TaskManager\bin\EntityFramework.xml
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC1.2\TaskManagerMVC\TaskManager\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC1.2\TaskManagerMVC\TaskManager\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC1.2\TaskManagerMVC\TaskManager\bin\Microsoft.AI.Web.xml
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC1.2\TaskManagerMVC\TaskManager\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC1.2\TaskManagerMVC\TaskManager\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC1.2\TaskManagerMVC\TaskManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC1.2\TaskManagerMVC\TaskManager\bin\System.Web.Helpers.xml
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC1.2\TaskManagerMVC\TaskManager\bin\System.Web.Mvc.xml
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC1.2\TaskManagerMVC\TaskManager\bin\System.Web.Optimization.xml
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC1.2\TaskManagerMVC\TaskManager\bin\System.Web.Razor.xml
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC1.2\TaskManagerMVC\TaskManager\bin\System.Web.WebPages.xml
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC1.2\TaskManagerMVC\TaskManager\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC1.2\TaskManagerMVC\TaskManager\bin\System.Web.WebPages.Razor.xml
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC1.2\TaskManagerMVC\TaskManager\bin\Antlr3.Runtime.pdb
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC1.2\TaskManagerMVC\TaskManager\bin\Newtonsoft.Json.xml
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC1.2\TaskManagerMVC\TaskManager\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC1.2\TaskManagerMVC\TaskManager\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC1.2\TaskManagerMVC\TaskManager\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC1.2\TaskManagerMVC\TaskManager\bin\Microsoft.Owin.xml
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC1.2\TaskManagerMVC\TaskManager\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC1.2\TaskManagerMVC\TaskManager\bin\Microsoft.Owin.Security.xml
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC1.2\TaskManagerMVC\TaskManager\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC1.2\TaskManagerMVC\TaskManager\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC1.2\TaskManagerMVC\TaskManager\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC1.2\TaskManagerMVC\TaskManager\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC1.2\TaskManagerMVC\TaskManager\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC1.2\TaskManagerMVC\TaskManager\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC1.2\TaskManagerMVC\TaskManager\obj\Debug\TaskManager.csprojResolveAssemblyReference.cache
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC1.2\TaskManagerMVC\TaskManager\obj\Debug\TaskManager.dll
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerMVC1.2\TaskManagerMVC\TaskManager\obj\Debug\TaskManager.pdb
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerFiles\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\roslyn\csc.exe
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerFiles\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerFiles\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerFiles\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerFiles\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerFiles\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerFiles\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerFiles\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerFiles\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerFiles\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\roslyn\vbc.exe
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerFiles\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\roslyn\VBCSCompiler.exe
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerFiles\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerFiles\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\TaskManager.dll.config
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerFiles\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\TaskManager.dll
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerFiles\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\TaskManager.pdb
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerFiles\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\Antlr3.Runtime.dll
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerFiles\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\DataAccess.dll
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerFiles\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerFiles\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerFiles\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerFiles\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerFiles\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\Microsoft.AI.Web.dll
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerFiles\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerFiles\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerFiles\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerFiles\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerFiles\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerFiles\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerFiles\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\Microsoft.Owin.dll
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerFiles\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerFiles\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerFiles\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\Microsoft.Owin.Security.dll
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerFiles\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerFiles\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerFiles\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerFiles\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerFiles\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerFiles\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerFiles\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\Newtonsoft.Json.dll
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerFiles\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\Owin.dll
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerFiles\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\System.Web.Helpers.dll
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerFiles\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\System.Web.Mvc.dll
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerFiles\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\System.Web.Optimization.dll
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerFiles\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\System.Web.Razor.dll
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerFiles\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerFiles\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\System.Web.WebPages.dll
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerFiles\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\System.Web.WebPages.Razor.dll
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerFiles\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\WebGrease.dll
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerFiles\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\EntityFramework.dll
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerFiles\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\DataAccess.pdb
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerFiles\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerFiles\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerFiles\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\Microsoft.AI.Web.xml
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerFiles\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerFiles\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerFiles\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerFiles\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\System.Web.Helpers.xml
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerFiles\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\System.Web.Mvc.xml
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerFiles\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\System.Web.Optimization.xml
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerFiles\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\System.Web.Razor.xml
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerFiles\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\System.Web.WebPages.xml
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerFiles\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerFiles\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\System.Web.WebPages.Razor.xml
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerFiles\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\Antlr3.Runtime.pdb
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerFiles\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\Newtonsoft.Json.xml
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerFiles\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerFiles\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerFiles\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerFiles\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\Microsoft.Owin.xml
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerFiles\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerFiles\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\Microsoft.Owin.Security.xml
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerFiles\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerFiles\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerFiles\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerFiles\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerFiles\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerFiles\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerFiles\TaskManagerMVC\TaskManagerMVC\TaskManager\bin\EntityFramework.xml
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerFiles\TaskManagerMVC\TaskManagerMVC\TaskManager\obj\Debug\TaskManager.csprojResolveAssemblyReference.cache
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerFiles\TaskManagerMVC\TaskManagerMVC\TaskManager\obj\Debug\TaskManager.dll
+C:\Users\Vladislav Kavazov\Desktop\TaskManagerFiles\TaskManagerMVC\TaskManagerMVC\TaskManager\obj\Debug\TaskManager.pdb
+C:\Users\Vladislav Kavazov\Desktop\Programing\Programista Intern Tasks\C#\03. Thu 07\TaskManagers\Task Manager Files\TaskManagerMVC\TaskManager\obj\Debug\TaskManager.dll
+C:\Users\Vladislav Kavazov\Desktop\Programing\Programista Intern Tasks\C#\03. Thu 07\TaskManagers\Task Manager Files\TaskManagerMVC\TaskManager\obj\Debug\TaskManager.pdb

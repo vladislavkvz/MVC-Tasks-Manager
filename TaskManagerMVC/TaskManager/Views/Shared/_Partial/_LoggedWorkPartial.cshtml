@@ -1,0 +1,39 @@
+﻿@model TaskManager.VIewModels.TaskManager.TaskDetailsVm
+
+<p>
+    @Html.ActionLink("Create New", "Edit", "LoggedWork", new { id = 0, taskid = Model.Id }, null)
+</p>
+<table class="table">
+    <tr>
+        <th>@Html.Label("Id")</th>
+        <th>@Html.Label("Task Id")</th>
+        <th>@Html.Label("User Id")</th>
+        <th>@Html.Label("TimeSpent")</th>
+        <th>@Html.Label("Logged On")</th>
+        <th></th>
+    </tr>
+    @foreach (var item in Model.LoggedWorkList)
+            {
+        <tr>
+            <td>
+                @item.Id
+            </td>
+            <td>
+                @item.TaskId
+            </td>
+            <td>
+                @item.UserId
+            </td>
+            <td>
+                @item.TimeSpent
+            </td>
+            <td>
+                @item.LoggedOn
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", "LoggedWork", new { id = item.Id, taskid = Model.Id }, null) |
+                @Html.ActionLink("Delete", "Delete", "LoggedWork", new { id = item.Id }, null)
+            </td>
+        </tr>
+    }
+</table>
